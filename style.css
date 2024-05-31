@@ -672,3 +672,6 @@ h5 {
     margin-top: 20px;
     width: 40%;
 }
+.about{
+    z-index: 9999 !important;
+}
